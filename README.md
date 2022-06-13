@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zac.
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on projects that you don't mind someone a bit greeen on.
+- 💞️ I’m looking to collaborate on projects that you don't mind someone a bit green on.
 - 📫 How to reach me = zbc921@gmail.com
 
 <!---
